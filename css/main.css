@@ -116,46 +116,38 @@ span.navbar-text{
 	justify-content: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	
 }
 .model-3{
-	background-color: rgb(190, 110, 110);
-	background-image: url("/images/8.jfif");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: relative;
+	background-color: rgb(0, 0, 0);
+	background-image: url("/images/1.jfif");
+	background-size: 70%;
 }
 .model-l{
-	background-color: rgb(0, 0, 0);
+	background-color: rgb(255, 255, 255);
 	background-image: url("/images/model3.png");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: relative;
+	
 }
 
 .model-0{
 	background-color: rgb(254, 255, 198);
 	background-image: url("/images/2.jpg");
-	background-position: center;
-	background-repeat: space;
-	background-size: cover;
-	position: relative;
 }
 
 .model-n{
 	background-color: rgb(0, 0, 0);
-	background-image: url("/images/1.png");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: relative;
+	background-image: url("/images/8.jpg");
+	
 }
 
 .model-name h2{
 	margin-top: 5rem;
 	text-shadow: 2px 1px 4px #000000;
-	font-size: 4vw;
+	font-size: 3.5vw;
 }
 .model-name-others h3{
 	margin-top: 4rem;
@@ -163,7 +155,7 @@ span.navbar-text{
 	font-size: 6vw;
 }
 .model-name p{
-	color: rgba(255, 255, 255, 0.6);
+	color: rgba(252, 237, 237, 0.753);
 	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
              0px 8px 13px rgba(0,0,0,0.1),
              0px 18px 23px rgba(0,0,0,0.1);
